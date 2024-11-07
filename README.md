@@ -23,8 +23,6 @@ The goal of this project is to identify key factors that contribute to students'
 - **Interactive Dashboard**: Users can explore the data dynamically through filters and parameters.
 - **Variable Selection**: Users can select from various quantitative and categorical measures (e.g., Attendance, Exam Score, Family Income) to analyze performance from multiple perspectives.
 - **Dynamic Filters**: Filters automatically update based on selected variables, allowing in-depth exploration of categorical and continuous factors.
-- **Trend Analysis**: Trend lines and color-coded categories make it easy to spot patterns and trends among students with different backgrounds and study habits.
-
 ---
 
 ## Data Sources
